@@ -1,3 +1,3 @@
-let abacate = "caroço"
-let limão = "amargo"
-console.log(abacate + limão)
+let maçã = "açúcar"
+let banana = "escorrega"
+console.log(maçã + banana)
